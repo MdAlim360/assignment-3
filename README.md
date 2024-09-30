@@ -51,7 +51,7 @@ Before installing the project, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/MdAlim360/meeting-room-booking-system.git
+   https://github.com/MdAlim360/assignment-3.git
    cd meeting-room-booking-system
    ```
 1. **Install dependencies:**
